@@ -1,9 +1,8 @@
 
-<h1>Dr. Gilberto Ochoa Ruiz</h1>
-<p>email: gilberto(dot)ochoa(at)tec(dot)mx</p>
-<p> Official website: http://research.tec.mx/vivo-tec/display/PID_334436 </p>
-<p> Tecnologico de Monterrey, Computer Science Department -  Machine Learning Research Group</p>
-<p> General Chair Latinx in Computer Vision at CVPR and ICCV </p>
+<h1>Fabián Castaño, Ph.D.</h1>
+<p>email: fancagi(at)gmail(dot)com</p>
+<p> Frubana, R&D - Operations Research & Data ScienceGroup</p>
+<p> Senior Data scientist  </p>
 
 <h2>Bio</h2>
 
