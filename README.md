@@ -35,6 +35,8 @@ Vol. 241(1).Castaño, F. , E. Bourreau, Velasco, N., Rossi, A., Sevaux, M.
 
 [Nubia Velasco](https://administracion.uniandes.edu.co/profesores/nubia-milena-velasco-rodriguez), Universidad de los Andes
 
+[Andrés Felipe Gutierrez (Tito)](https://scholar.google.com/citations?hl=es&user=y7ZhMqYAAAAJ), Frubana, Colombia
+
 [André Rossi](https://www.lamsade.dauphine.fr/~arossi/), Université Paris-Dauphine, France
 
 [Sonia Toubaline](https://www.lamsade.dauphine.fr/~stoubaline/), Université Paris-Dauphine, France
