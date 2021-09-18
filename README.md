@@ -1,7 +1,7 @@
 
 <h1>Fabián Castaño, Ph.D.</h1>
 <p>email: fancagi(at)gmail(dot)com</p>
-<p> Frubana, R&D - Operations Research & Data ScienceGroup</p>
+<p> Frubana, R&D - Operations Research & Data Science </p>
 <p> Senior Data scientist  </p>
 
 <h2>Bio</h2>
