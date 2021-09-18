@@ -18,18 +18,18 @@
 
 <h2> Publications </h2>
 	
-•(2021) **A network flow-based model for operations planning in home health care delivery**, The International Journal of Logistics Management, Vol. 32 (1). Castaño, F., Velasco, N. 
-<p> • (2020) **Exact and heuristic approaches for the automated design of medical trainees rotation schedules**, Omega, Vol. 97 (12).
-Castaño, F., Velasco, N. </p>  
-<p> • (2020) **Heuristic approaches for a two-echelon constrained joint replenishment and delivery problem**, International Journal of Production Economics, Vol. 220 (2).
-Carvajal, J., Castaño, F., Costa, Y., Sarache, W.</p> 
-<p> • (2019) **Content-based conference scheduling optimization**, IEEE Latin America Transactions, Vol. 17 (4). Castaño, F. , Velasco, N., Carvajal, J.</p> 
-<p> • (2018) **An exact approach to extend network lifetime in a general class of wireless sensor networks**, Vol. 433, Information Sciences. Castaño, F. , Velasco, N., Rossi, A., Sevaux, M</p> 
-<p> • (2016) **Partial target coverage to extend the lifetime in wireless multi-role sensor networks, Networks, Vol. 67 (3). Castaño, F., Bourreau, E., Rossi, A., Sevaux, M., Velasco, N. </p> 
-<p> • (2015) **Exact approaches for lifetime maximization in connectivity constrained wireless multi-role sensor networks**, European Journal of Operational Research,
-Vol. 241(1).Castaño, F. , E. Bourreau, Velasco, N., Rossi, A., Sevaux, M. </p> 
-<p> • (2014) **A column generation approach to extend lifetime in wireless sensor networks with coverage and connectivity constraints**, Computers & Operations Research, Vol. 52(B). Castaño, F. , Velasco, N., Rossi, A., Sevaux, M. </p> 
-<p> • (2013) **A heuristic framework based on linear programming to solve the constrained joint replenishment problem (C-JRP)**, International Journal of Production Economics, Vol. 144 (1). Amaya, C. Carvajal, J., Castaño, F. </p> 
+• (2021) **A network flow-based model for operations planning in home health care delivery**, The International Journal of Logistics Management, Vol. 32 (1). Castaño, F., Velasco, N. 
+ • (2020) **Exact and heuristic approaches for the automated design of medical trainees rotation schedules**, Omega, Vol. 97 (12).
+Castaño, F., Velasco, N. 
+• (2020) **Heuristic approaches for a two-echelon constrained joint replenishment and delivery problem**, International Journal of Production Economics, Vol. 220 (2).
+Carvajal, J., Castaño, F., Costa, Y., Sarache, W. 
+• (2019) **Content-based conference scheduling optimization**, IEEE Latin America Transactions, Vol. 17 (4). Castaño, F. , Velasco, N., Carvajal, J.
+• (2018) **An exact approach to extend network lifetime in a general class of wireless sensor networks**, Vol. 433, Information Sciences. Castaño, F. , Velasco, N., Rossi, A., Sevaux, M. 
+• (2016) **Partial target coverage to extend the lifetime in wireless multi-role sensor networks, Networks, Vol. 67 (3). Castaño, F., Bourreau, E., Rossi, A., Sevaux, M., Velasco, N.  
+• (2015) **Exact approaches for lifetime maximization in connectivity constrained wireless multi-role sensor networks**, European Journal of Operational Research,
+Vol. 241(1).Castaño, F. , E. Bourreau, Velasco, N., Rossi, A., Sevaux, M. 
+• (2014) **A column generation approach to extend lifetime in wireless sensor networks with coverage and connectivity constraints**, Computers & Operations Research, Vol. 52(B). Castaño, F. , Velasco, N., Rossi, A., Sevaux, M. 
+• (2013) **A heuristic framework based on linear programming to solve the constrained joint replenishment problem (C-JRP)**, International Journal of Production Economics, Vol. 144 (1). Amaya, C. Carvajal, J., Castaño, F.
 
 <h2>Collaborators </h2>
 
