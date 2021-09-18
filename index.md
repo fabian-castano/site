@@ -26,7 +26,7 @@ Castaño, F., Velasco, N.
 • (2020) **Heuristic approaches for a two-echelon constrained joint replenishment and delivery problem**, International Journal of Production Economics, Vol. 220 (2).
 Carvajal, J., Castaño, F., Costa, Y., Sarache, W. 
 
-• (2019) **Content-based conference scheduling optimization**, IEEE Latin America Transactions, Vol. 17 (4). Castaño, F. , Velasco, N., Carvajal, J.
+• (2019) **Content-based conference scheduling optimization**, IEEE Latin America Transactions**, Vol. 17 (4). Castaño, F. , Velasco, N., Carvajal, J.
 
 • (2018) **An exact approach to extend network lifetime in a general class of wireless sensor networks**, Vol. 433, Information Sciences. Castaño, F. , Velasco, N., Rossi, A., Sevaux, M. 
 
