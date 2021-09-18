@@ -18,7 +18,7 @@
 
 <h2> Publications </h2>
 	
-<p> •(2021) **A network flow-based model for operations planning in home health care delivery**, The International Journal of Logistics Management, Vol. 32 (1). Castaño, F., Velasco, N. </p> 
+•(2021) **A network flow-based model for operations planning in home health care delivery**, The International Journal of Logistics Management, Vol. 32 (1). Castaño, F., Velasco, N. 
 <p> • (2020) **Exact and heuristic approaches for the automated design of medical trainees rotation schedules**, Omega, Vol. 97 (12).
 Castaño, F., Velasco, N. </p>  
 <p> • (2020) **Heuristic approaches for a two-echelon constrained joint replenishment and delivery problem**, International Journal of Production Economics, Vol. 220 (2).
