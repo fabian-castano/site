@@ -6,20 +6,19 @@
 
 <h2>Bio</h2>
 
-**Fabián Castaño** is a researcher and practitions in **Operations Research, Data Science and Logistics**. He has participated as associated researcher and lecturer in several programs accredited by MinCiencias, geared around Healthcare Logistics, Network Design, and Urban Logistics. He obtained a master in **Industrial Engineering** from [Universidad de los Andes](https://www.uniandes.edu.co/) and a **PhD in Operations Research** from the Universite de Bretagne-Sud (France) ([Laboratoire des sciences et techniques de l'information, de la communication et de la connaissance](https://labsticc.fr/en)) and Universidad de los Andes.  He is associate researcher according to MinCiencias National Rank. He is part of the Research and Development Staff in [Frubana](https://www.frubana.com/) where he applies Operations Research and Data Science tool to help improve decicions making processes and disrupting the supply chaing in LatAm. 
+**[Fabián Castaño](https://scholar.google.com/citations?user=IDR10j8AAAAJ&hl=es)** is a researcher and practitions in **Operations Research, Data Science and Logistics**. He has participated as associated researcher and lecturer in several programs accredited by MinCiencias, geared around Healthcare Logistics, Network Design, and Urban Logistics. He obtained a master in **Industrial Engineering** from [Universidad de los Andes](https://www.uniandes.edu.co/) and a **PhD in Operations Research** from the Universite de Bretagne-Sud (France) ([Laboratoire des sciences et techniques de l'information, de la communication et de la connaissance](https://labsticc.fr/en)) and Universidad de los Andes.  He is associate researcher according to MinCiencias National Rank. He is part of the Research and Development Staff in [Frubana](https://www.frubana.com/) where he applies Operations Research and Data Science tool to help improve decicions making processes aiming at disrupting the supply chaing in LatAm countries. 
 
 
 
 <h2>Research Areas</h2>
 
-<p> •	Artificial Intelligence (Computer vision and machine learning) for medical imaging</p> 
-<p> •	Applied Computational Intelligence, Smart Connected Devices, AI at the edge</p> 
-<p> •	Optimization techniques for designing edge AI models and devices.</p> 
+<p> •	Urban logistics </p> 
+<p> •	Inventory management </p> 
+<p> •	Optimization in network design problems</p> 
 
-<h2> Positions available/Grants </h2>
+<h2> Publications </h2>
 	
- There are available positions (bachelor, master and PhD) for all these projects via **CONACYT** (Mexican Council for Science and Technology) and other grants for suitable candidates (contact me for further details). International mobility is strongly encouraged and double diplomas are possible. 
-I strongly advice any prospect students to show qualifications in machine deep learning if possible. Showing evidence of previous projects (thesis, articles, GitHub) or qualifications from Coursera (Deep Learning and/or Artificial Intelligence for Medicine) is highly desired.
+
 
 <h2>Collaborators </h2>
 
